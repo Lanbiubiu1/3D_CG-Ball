@@ -1,0 +1,31 @@
+﻿  HW4.cpp
+D:\CS6533\Example\HW4.cpp(142,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(199,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(202,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(277,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(291,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(292,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(293,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(310,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS6533\Example\HW4.cpp(311,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS6533\Example\HW4.cpp(331,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS6533\Example\HW4.cpp(341,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS6533\Example\HW4.cpp(342,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS6533\Example\HW4.cpp(346,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS6533\Example\HW4.cpp(377,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(384,108): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS6533\Example\HW4.cpp(384,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS6533\Example\HW4.cpp(384,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS6533\Example\HW4.cpp(485,74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(486,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(487,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(489,74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(493,74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(494,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(495,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(500,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(501,63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS6533\Example\HW4.cpp(675,41): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\CS6533\Example\HW4.cpp(983,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CS6533\Example\HW4.cpp(1012,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Example.vcxproj -> D:\CS6533\Example\x64\Debug\Example.exe
